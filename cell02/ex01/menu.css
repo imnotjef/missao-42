@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(230, 230, 230);
+}
+
+.sanduiche {
+    width: 300px;
+}
+
+.pao-cima {
+    background-color: rgb(222, 184, 135);
+    height: 60px;
+    border-radius: 50px 50px 10px 10px;
+}
+
+.queijo {
+    background-color: rgb(255, 217, 61);
+    height: 20px;
+}
+
+.presunto {
+    background-color: rgb(233, 116, 116);
+    height: 25px;
+}
+
+.alface {
+    background-color: rgb(126, 189, 91);
+    height: 15px;
+}
+
+.pao-baixo {
+    background-color: rgb(222, 184, 135);
+    height: 40px;
+    border-radius: 10px 10px 50px 50px;
+}
