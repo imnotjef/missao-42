@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+}
+
+table {
+    width: 100%;
+    height: 100vh;
+    border-collapse: collapse;
+}
+
+.celula1 {
+    background-color: rgb(20, 50, 221);
+    width: 50%;
+}
+
+.celula2 {
+    background-color: rgb(233, 11, 11);
+    width: 50%;
+}
